@@ -8,9 +8,25 @@ See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
 
 ----
 
-### Вопросы
+## Как помочь?
 
-<details><summary>Какие бывают требования?</summary>
+Мы принимаем Pull Request'ы!
+
+## Правила
+
+* Для добавляйте вопросы с пояснениями
+
+```html
+<details>
+<summary>Вопрос</summary>
+Ответ/пояснение к вопросу
+</details>
+```
+
+## Вопросы
+
+<details>
+<summary>Какие бывают требования?</summary>
 По объекту требования:
 
 * Функциональные – определяют действия, которые система должна быть способной выполнить
