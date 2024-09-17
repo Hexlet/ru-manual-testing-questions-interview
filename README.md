@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Этот репозиторий заархивирован**. Актуальные вопросы вы можете посмотреть [здесь](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/manual-qa.md)
+>
+
 # Вопросы с собеседований для тестировщиков
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=ru-test-assignments)
