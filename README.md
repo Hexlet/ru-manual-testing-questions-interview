@@ -1,5 +1,5 @@
 > [!WARNING]
-> **Этот репозиторий заархивирован**. Актуальные вопросы вы можете посмотреть [здесь](https://github.com/Hexlet/ru-interview-questions/blob/main/questions/manual-qa.md)
+> **Этот репозиторий в архиве**. Актуальные вопросы вы можете посмотреть [здесь](https://github.com/Hexlet/ru-interview-questions)
 >
 
 # Вопросы с собеседований для тестировщиков
